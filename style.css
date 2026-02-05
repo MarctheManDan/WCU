@@ -1,6 +1,7 @@
 main{
     text-align: center;
     font-family: "Quicksand";
+    overflow: scroll;
 }
 
 #titleCard{
@@ -66,3 +67,4 @@ header{margin-bottom: 100PX;}
         grid-template-columns: none;
     }
 }
+
